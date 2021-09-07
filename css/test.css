@@ -1,0 +1,29 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    font-size: 30px;
+    color: salmon;
+}
+h2 {
+
+font-size: 40px
+
+}
+
+.big{
+    font-size: 60px;
+}
+
+.raring{
+    text-transform: uppercase;
+}
+
+.big.raring{
+    color: navy;
+}
+
+h1 span {
+    color:violet
+}
