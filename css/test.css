@@ -8,16 +8,18 @@ h1 {
 }
 h2 {
 
-font-size: 40px
+font-size: 5px
 
 }
 
 .big{
-    font-size: 60px;
+    font-size: 30px;
 }
 
 .raring{
     text-transform: uppercase;
+    color: black;
+    font-size: 100px;
 }
 
 .big.raring{
@@ -25,5 +27,5 @@ font-size: 40px
 }
 
 h1 span {
-    color:violet
+    
 }
